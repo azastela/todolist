@@ -34,6 +34,8 @@ gem 'haml'
 group :development do
   gem 'spring'
   gem 'awesome_print'
+  gem 'better_errors'
+  gem 'binding_of_caller'
 end
 
 # Use ActiveModel has_secure_password
