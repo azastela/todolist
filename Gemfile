@@ -30,6 +30,7 @@ gem 'devise'
 gem 'annotation'
 gem 'haml'
 gem "font-awesome-rails"
+gem "simple_form"
 
 
 group :development do
